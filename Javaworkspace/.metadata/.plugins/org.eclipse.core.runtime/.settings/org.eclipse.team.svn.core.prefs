@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+externalMigrateFromAuthorizationDatabase/isMigrated=true
+migrateFromAuthorizationDatabase/isMigrated=true
+repositories/60a1e67ad16b001514d5915e829f0341=60a1e67ad16b001514d5915e829f0341;https\://mdev/svn/JenkinsTest_VTI;https\://mdev/svn/JenkinsTest_VTI;branches;tags;trunk;true;5aacfc57-f6c9-0c44-bc2d-d1829bfcb206;https\://mdev/svn/JenkinsTest_VTI;;false;<https\://mdev\:443> VisualSVN Server;;0
+repositories/80c97c533d6c0015129d91811aa239c4=80c97c533d6c0015129d91811aa239c4;https\://mdev/svn/CI_Sample;https\://mdev/svn/CI_Sample;branches;tags;trunk;true;784cb2fe-efb9-6f47-b1cd-a6bee18be299;https\://mdev/svn/CI_Sample;;false;<https\://mdev\:443> VisualSVN Server;;0
